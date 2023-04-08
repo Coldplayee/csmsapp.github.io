@@ -17,7 +17,9 @@
     NONCS:
       - CSE@Harvard
       - DS@Harvard
+      - HDS@Harvard
       - ICME@Stanford
+      - SS@Stanford
 - S:
     CS:
       - MCDS@CMU
@@ -106,6 +108,7 @@
       - ECE Meng@Waterloo
       - MSIM@UIUC
       - MI@UofT
+      - MSEECE@JHU
 - B-:
     CS:
       - MSCSE@OSU
